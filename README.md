@@ -38,13 +38,11 @@ Give credit here.
 - This project was inspired by Upgrad Assignment
 - This project was based on [this tutorial](https://www.youtube.com/watch?v=jztwpsIzEGc).
 
-
-
 ## References
-Melanoma Skin Cancer from https://www.cancer.org/cancer/melanoma-skin-cancer/about/what-is-melanoma.html
-Introduction to CNN from https://www.analyticsvidhya.com/blog/2021/05/convolutional-neural-networks-cnn/
-Image classification using CNN from https://www.analyticsvidhya.com/blog/2020/02/learn-image-classification-cnn-convolutional-neural-networks-3-datasets/
-Convolutional Neural Network (CNN) for Automatic Skin Cancer Classification System from https://iopscience.iop.org/article/10.1088/1757-899X/982/1/012005/pdf
+- Melanoma Skin Cancer from https://www.cancer.org/cancer/melanoma-skin-cancer/about/what-is-melanoma.html
+- Introduction to CNN from https://www.analyticsvidhya.com/blog/2021/05/convolutional-neural-networks-cnn/
+- Image classification using CNN from https://www.analyticsvidhya.com/blog/2020/02/learn-image-classification-cnn-convolutional-neural-networks-3-datasets/
+- Convolutional Neural Network (CNN) for Automatic Skin Cancer Classification System from https://iopscience.iop.org/article/10.1088/1757-899X/982/1/012005/pdf
 
 ## Contact
 Created by hermansyah1206@gmail.com - feel free to contact me!
