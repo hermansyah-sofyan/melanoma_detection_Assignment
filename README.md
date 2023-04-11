@@ -1,4 +1,4 @@
-# melanoma_detection_Assignment
+# melanoma_detection_assignment
 This is an assignment for MSc in Data Science. Collaboration courses between Upgrad, LJMU, and IIIT-Bengalore
 
 
