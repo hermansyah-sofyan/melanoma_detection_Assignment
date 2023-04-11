@@ -19,10 +19,9 @@ We processed 2357 images of malignant and benign oncological diseases, which wer
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- First iteration, we run using Convolutional and pooling only, we got an 0.94 accuracy for training, but only 0.80 for validation. So this indicated overfitting
+- Second iteration, we run using dropouts, this improved the accuracy gap. With this method, we got 0.91 and 0.90 accuracy. But as we could see that there was imbalanced class, we still were able to increase the accuracy.
+- Last iteration, we used augmentor to handle imbalanced class. After implementing this, we could increase the accuracy of training to 0.94 and validation accuracy 0.92. The accuracy gap was also considered small.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
