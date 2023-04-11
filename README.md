@@ -36,7 +36,7 @@ Tensorflow.keras version 2.12.0
 ## Acknowledgements
 Give credit here.
 - This project was inspired by Upgrad Assignment
-- This project was based on [this tutorial]([https://www.example.com](https://www.youtube.com/watch?v=jztwpsIzEGc)).
+- This project was based on [this tutorial]([https://www.youtube.com/watch?v=jztwpsIzEGc]).
 
 ## References
 Melanoma Skin Cancer from https://www.cancer.org/cancer/melanoma-skin-cancer/about/what-is-melanoma.html
