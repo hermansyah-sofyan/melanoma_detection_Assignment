@@ -28,9 +28,15 @@ We processed 2357 images of malignant and benign oncological diseases, which wer
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+import tensorflow as tf
+from tensorflow.keras.preprocessing.image import load_img
+from tensorflow.keras.datasets import cifar10
+from tensorflow.keras.preprocessing.image import ImageDataGenerator
+from tensorflow.keras import Sequential
+from tensorflow.keras.layers import Dense, Dropout, Activation, Flatten, Conv2D, MaxPooling2D
+from tensorflow import keras
+from tensorflow.keras import layers
+from tensorflow.keras.models import Sequential
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
@@ -42,7 +48,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by hermansyah1206@gmail.com - feel free to contact me!
 
 
 <!-- Optional -->
