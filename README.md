@@ -22,6 +22,7 @@ We processed 2357 images of malignant and benign oncological diseases, which wer
 - First iteration, we run using Convolutional and pooling only, we got an 0.94 accuracy for training, but only 0.80 for validation. So this indicated overfitting
 - Second iteration, we run using dropouts, this improved the accuracy gap. With this method, we got 0.91 and 0.90 accuracy. But as we could see that there was imbalanced class, we still were able to increase the accuracy.
 - Last iteration, we used augmentor to handle imbalanced class. After implementing this, we could increase the accuracy of training to 0.94 and validation accuracy 0.92. The accuracy gap was also considered small.
+- For each CNN architecture, we included 3 different convolutional steps. First convolutional started with 16, 32, and then lastly 64 feature detectors with 3,3 kernels. On each convulutional, we implemented activation rectified linear activation function pool size 2,2 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
